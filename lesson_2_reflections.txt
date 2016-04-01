@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+R - It is necessary init a new repository because git creates new files, which
+it is possible to keep track of all changes (.git)
+
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+R - I don't really know
