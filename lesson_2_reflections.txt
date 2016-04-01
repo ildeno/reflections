@@ -15,3 +15,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 R - Because I can choose to commit only the files that have a logical
 connection..
 Maybe
+
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+R - Creating a experimental version or trying new features or libraries. It is
+possible to make huge changes without risks
+
+
+How do the diagrams help you visualize the branch structure?
+
+R - Because it is more easy watching than imaging
