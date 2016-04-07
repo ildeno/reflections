@@ -27,3 +27,20 @@ possible to make huge changes without risks
 How do the diagrams help you visualize the branch structure?
 
 R - Because it is more easy watching than imaging
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+R - Merging 2 branches allows us to combine all the editing of the first branch and
+all of the second
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+R - automatic merging allows us to merge faster than manually, but it is
+possible
+to store bunch of lines unuseful.. Manual is slower because needs to be
+checked
+by the programmer, but it allows us to choose what include
