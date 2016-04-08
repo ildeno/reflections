@@ -24,3 +24,12 @@ stored locally?
 
 R - I suppose because it is more easy to remember my last work... But is
 stupid
+
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+R - It would be very hard to collaborate without github because we should
+manually
+check everything. Two or three persons is easy but, what is the persons where 
+more than 10, 1000, etc..
